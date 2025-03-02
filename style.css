@@ -385,7 +385,7 @@ header .container {
 }
 
 .bo6-card .game-image {
-    background-image: url('https://via.placeholder.com/500x300');
+    background-image: url('bo6.png');
     position: relative;
 }
 
@@ -400,7 +400,7 @@ header .container {
 }
 
 .rl-card .game-image {
-    background-image: url('https://via.placeholder.com/500x300');
+    background-image: url('rl.png');
     position: relative;
 }
 
