@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
         width: '100%',
         height: '100%',
         // Replace 'YOUR_CHANNEL' with your actual Twitch username
-        channel: 'YOUR_CHANNEL',
+        channel: 'isostraight',
         parent: ['embed.example.com', 'localhost']
     };
     
